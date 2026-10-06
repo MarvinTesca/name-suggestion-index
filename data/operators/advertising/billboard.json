@@ -1361,7 +1361,7 @@
         "operator:wikidata": "Q122960694"
       }
     },
-    {
+       {
       "displayName": "Werbe Fabry",
       "id": "werbefabry-9fb964",
       "locationSet": {"include": ["de"]},
@@ -1369,6 +1369,15 @@
         "advertising": "billboard",
         "operator": "Werbe Fabry",
         "operator:wikidata": "Q130213627"
+      }
+    },
+    {
+      "displayName": "Azenn Connect",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "advertising": "billboard",
+        "operator": "Azenn Connect",
+        "operator:wikidata": "Q140377719"
       }
     }
   ]
