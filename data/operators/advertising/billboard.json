@@ -1370,6 +1370,15 @@
         "operator": "Werbe Fabry",
         "operator:wikidata": "Q130213627"
       }
+    },
+    {
+      "displayName": "Azenn Connect",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "advertising": "billboard",
+        "operator": "Azenn Connect",
+        "operator:wikidata": "Q140377719"
+      }
     }
   ]
 }
